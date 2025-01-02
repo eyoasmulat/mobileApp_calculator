@@ -1,0 +1,8 @@
+Name:Dessalegn Mulat
+ID:  1401145
+
+
+
+
+ This application that performs addition, Subtraction, Multiplication, Division, and Module. And additionally 
+Sine, Cosine, Tangent, and Inverse Trigonometric Functions, Reciprocal Trigonometric Functions, and Inverse Reciprocal Functions. The application  have two sections Arithmetic and Trigonometric Calculator. Using Switch button to toggle between degrees and radians for trigonometric calculations. alert Dialog and Toast as used to display appropriate error messages for invalid inputs (e.g., division by zero).
